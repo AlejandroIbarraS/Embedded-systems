@@ -1,0 +1,1 @@
+A GPS server for Raspberry Pi 3, it allows the client to make a request of its position alongisde other data like time, latitud, longitude, etc.
